@@ -26,6 +26,10 @@ string PrintRange(int start, int end)
 Console.WriteLine(PrintRange(n, 1));
 */
 
+
+
+
+
 /*
 Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму 
 натуральных элементов в промежутке от M до N.
